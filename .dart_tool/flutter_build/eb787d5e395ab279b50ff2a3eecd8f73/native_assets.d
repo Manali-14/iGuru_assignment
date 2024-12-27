@@ -1,0 +1,1 @@
+ /Users/manaliashokwirmalwar/Desktop/iGuru_assignment/iGuru_assignment/.dart_tool/flutter_build/eb787d5e395ab279b50ff2a3eecd8f73/native_assets.yaml: 
